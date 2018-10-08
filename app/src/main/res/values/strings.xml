@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WifiTalk</string>
+    <string name="localPort">5050</string>
+    <string name="iPHint">Remote IP(192.168.0.1)</string>
+    <string name="portHint">Remote Port(0-65535)</string>
+    <string name="connect">Connect</string>
+    <string name="Disconnect">Disconnect</string>
+    <string name="phone_voip_incompatible">Phone is not compatible for VOIP</string>
+</resources>
